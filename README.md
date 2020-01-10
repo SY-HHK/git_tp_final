@@ -1,4 +1,4 @@
-# TP final de Git
+## TP final de Git
 
 ## Explication du TP
 
